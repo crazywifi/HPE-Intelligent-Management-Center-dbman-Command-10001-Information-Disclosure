@@ -11,12 +11,12 @@
 
 In this exploit I converted the Nessus Plugin to Python by using Exploit https://www.exploit-db.com/exploits/43198
 
-POC of iMC_PLAT_7.1_E0302_Standard_Windows
+##### POC of iMC_PLAT_7.1_E0302_Standard_Windows
 
 ![Alt text](https://raw.githubusercontent.com/crazywifi/HPE-Intelligent-Management-Center-dbman-Command-10001-Information-Disclosure/master/1.PNG)
 ![Alt text](https://raw.githubusercontent.com/crazywifi/HPE-Intelligent-Management-Center-dbman-Command-10001-Information-Disclosure/master/2.PNG)
 
-POC of iMC_PLAT_7.2_E0403_Std_Win
+##### POC of iMC_PLAT_7.2_E0403_Std_Win
 
 ![Alt text](https://raw.githubusercontent.com/crazywifi/HPE-Intelligent-Management-Center-dbman-Command-10001-Information-Disclosure/master/3.PNG)
 ![Alt text](https://raw.githubusercontent.com/crazywifi/HPE-Intelligent-Management-Center-dbman-Command-10001-Information-Disclosure/master/4.PNG)
