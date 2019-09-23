@@ -9,7 +9,7 @@
 #### Description: This vulnerability allow remote attacker to view the contents of arbitrary directories under the security context of the SYSTEM or root user.
 #### See Also: https://www.tenable.com/plugins/nessus/118038
 
-####Exploit-DB: https://www.exploit-db.com/exploits/47408
+#### Exploit-DB: https://www.exploit-db.com/exploits/47408
 
 In this exploit I converted the Nessus Plugin to Python by using Exploit https://www.exploit-db.com/exploits/43198
 
